@@ -1,2 +1,2 @@
 # coding: utf8
-TOKEN = '< token - полученный у BotFather >' # токен бота
+TOKEN = '6124200352:AAEXS41srnUgvK8WN4zlXib-vVxQMn8USTA' # токен бота
